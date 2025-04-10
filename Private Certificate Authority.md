@@ -328,7 +328,7 @@ Después de obtenerla, ingresa en el navegador:
 http://server_ip
 ~~~
 
-![[Pasted image 20241009184754.png]]
+![Texto alternativo](images/imagen1.png)
 
 
 - Crear un directorio para `tudominio`.
@@ -408,7 +408,7 @@ Reiniciamos
 sudo systemctl restart nginx
 ~~~
 
-![[Pasted image 20241009192909.png]]
+![texto alternativo](images/imagen2.png)
 
 ****
 
